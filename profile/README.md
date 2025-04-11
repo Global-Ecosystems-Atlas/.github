@@ -13,21 +13,17 @@ The Atlas will combine existing high-quality ecosystem maps and new ecosystem ma
 
 # About the Atlas GitHub pages
 
-On these pages you will find the repositories that manage all the phases of Atlas production, including: data cataloguing, correspondence analysis, map synthesis and app production:
+On these pages you will find the repositories that manage all the phases of Atlas production, including: data cataloguing, dataset cross-referencing, map synthesis and app production:
 
-### 1. [Data cataloguing and correspondence analysis](https://github.com/geo-global-ecosystem-atlas/geo-data-catalogue)
-This repo contains code and other information used to manage the cataloguing pipeline. In here you'll find lists of all datasets assessed for inclusion in the Atlas, along with detailed information and metadata about all data sources actually included in the synthesised Atlas layers. This repository also contain correspondence tables which explain how source dataset map classes are assigned to Ecosystem Functional Groups within IUCN's Global Ecosystem Typology.
+### 1. [Data catalogue](https://github.com/Global-Ecosystems-Atlas/data-catalogue)
+This repo contains code and other information used to manage the cataloguing pipeline. In here you'll find lists of all datasets assessed for inclusion in the Atlas, along with detailed information and metadata. 
 
-### 2. [Data processing and synthesis map production](https://github.com/geo-global-ecosystem-atlas/geo-extent-baseline)
-This repo contains code and other information used to process all input data sources and synthesise into the final 119 layers of the Global Ecosystems Atlas.
 
-### 3. [Platform and web app development](https://github.com/geo-global-ecosystem-atlas/global-ecosystem-atlas-platform)
-This repo contains code and processes for the development of the interactive web app.
+### 2. [Cross-reference tables](https://github.com/Global-Ecosystems-Atlas/cross-reference-tables)
+ This repository also contain correspondence tables which explain how source dataset map classes are assigned to Ecosystem Functional Groups within IUCN's Global Ecosystem Typology.
 
-### 4. [Maldives accelerator project](https://github.com/allenai/maldives_ecosystem_mapping)
-As part of the [Global Ecosystems Atlas Maldives Accelerator project](https://earthobservations.org/solutions/incubators/global-ecosystems-atlas), GEO project-partners [Ai2](https://allenai.org/) have created the first version of an ecosystem category segmentation model that can be used to map terrestrial and near-land ecosystems in the Maldives. [This repository](https://github.com/allenai/maldives_ecosystem_mapping) contains the workflow and configuration files needed to reproduce the training of the ecosystem category segmentation model, and supports applying the model on new images.
 
-   
+
 # Frequently Asked Questions
 
 Here are some commonly asked question and answers about the Atlas:
