@@ -22,7 +22,8 @@ This repo contains code and other information used to manage the cataloguing pip
 ### 2. [Cross-reference tables](https://github.com/Global-Ecosystems-Atlas/cross-reference-tables)
  This repository also contain correspondence tables which explain how source dataset map classes are assigned to Ecosystem Functional Groups within IUCN's Global Ecosystem Typology.
 
-
+### 3. [Data processing and synthesis map production](https://github.com/global-ecosystems-atlas/synthesis)
+This repo contains code and other information used to process all input data sources and synthesise into the final 119 layers of the Global Ecosystems Atlas.
 
 # Frequently Asked Questions
 
