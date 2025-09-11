@@ -56,6 +56,29 @@ Under some laws and voluntary frameworks, companies and financial institutions a
 #### Enhancing financial structuring and risk insurance
 An increasing number of countries and communities invest in risk insurance to protect against climate- and nature-related loss and damage. New ecosystems knowledge can lead to new opportunities in financial structuring based on the underlying value of ecosystem services.
 
+# Additional resources
+
+The Global Ecosystems Atlas has developed a range of resources to support the initiative and to support stakeholders in developing new maps of ecosystems. These include:
+
+#### Reports
+
+- Global Ecosystems Atlas Data Catalogue: Standard Operating Procedures (forthcoming)
+- Global Ecosystems Atlas Synthesis Map: Technical Documentation (forthcoming)
+- Global Ecosystems Atlas Training and Validation Dataset: Design and Specification (link)
+- Global Ecosystems Atlas Training and Validation Dataset: Standard Operating Procedures (link)
+- Global Ecosystems Atlas Field Program: Standard Operating Procedures (link)
+- Global Ecosystems Atlas Guidelines for Developing National Ecosystem Maps (under review)
+
+#### Information
+
+- Global Ecosystems Atlas website - (https://globalecosystemsatlas.org/)  
+- Global Ecosystems Atlas Roadmap: 2025 - 2032 (forthcoming)
+- Global Ecosystems Atlas Glossary and Frequently Asked Questions (link)
+
+#### Contributors
+
+- List of Global Ecosystems Atlas contributors (forthcoming)
+
 # How to cite the data
 When using the Global Ecosystems Atlas Synthesis Map in any publication, report or project, please cite it as follows:
 Group on Earth Observations [Year] Global Ecosystems Atlas Synthesis Map version [Version Number]. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
