@@ -6,24 +6,23 @@ Convened by the [Group on Earth Observations (GEO)](https://earthobservations.or
 
 The Atlas will empower decision-makers with insights for sustainable development and a deeper understanding of Earth's ecological diversity. It will provide everything you need to know about the distribution, change, condition and risks of ecosystems worldwide.
 
-The Atlas will combine existing high-quality ecosystem maps and new ecosystem maps to fill data gaps. By enabling collaboration across sectors and countries, the Atlas will generate knowledge and insights on ecosystems, help improve and scale existing initiatives, and enhance consistency and coherence in stock-taking, reporting, and decision-making.
+The Atlas combines existing high-quality ecosystem maps with new ecosystem maps developed in-house to fill remaining data gaps. By enabling collaboration across sectors and countries, the Atlas generates knowledge and insights on ecosystems, helps improve and scale existing initiatives, and enhances consistency and coherence in stock-taking, reporting, and decision-making.
 
 ### Explore the Atlas [here!](https://globalecosystemsatlas.org/)    
 
 
-# About the Atlas GitHub pages
+# About the Global Ecosystems Atlas GitHub organisation
 
-On these pages you will find the repositories that manage all the phases of Atlas production, including: data cataloguing, dataset cross-referencing, map synthesis and app production:
+On these pages you will find the repositories that manage all major units of work to support Atlas production, including: data cataloguing, dataset cross-referencing, map synthesis and app production:
 
 ### 1. [Data catalogue](https://github.com/Global-Ecosystems-Atlas/data-catalogue)
-This repo contains code and other information used to manage the cataloguing pipeline. In here you'll find lists of all datasets assessed for inclusion in the Atlas, along with detailed information and metadata. 
-
+This repository contains code and other information used to manage the cataloguing pipeline. In here you'll find lists of all datasets assessed for inclusion in the Atlas, along with detailed information and metadata. 
 
 ### 2. [Cross-reference tables](https://github.com/Global-Ecosystems-Atlas/cross-reference-tables)
- This repository also contain correspondence tables which explain how source dataset map classes are assigned to Ecosystem Functional Groups within IUCN's Global Ecosystem Typology.
+This repository contains cross-referencing tables which explain how source dataset map classes are assigned to Ecosystem Functional Groups within IUCN's Global Ecosystem Typology.
 
 ### 3. [Data processing and synthesis map production](https://github.com/global-ecosystems-atlas/synthesis)
-This repo contains code and other information used to process all input data sources and synthesise into the final 119 layers of the Global Ecosystems Atlas.
+This repository contains code and other information used to process all input data sources and synthesise into the final 119 layers of the Global Ecosystems Atlas.
 
 # Frequently Asked Questions
 
@@ -62,9 +61,10 @@ The Global Ecosystems Atlas has developed a range of resources to support the in
 
 #### Data products
 
-- Global Training and Validation Dataset for Ecosystem Functional Groups (link). An open-access dataset of more than 90,000 human-labelled point data records representing occurrences of 110 Ecosystem Functional Groups. Suitable for training spatial models, evaluating efforts to cross-reference existing map classifications to the IUCN Global Ecosystem Typology, or independently validating spatial datasets that were developed to represent ecosystem functional groups. Publication expected in 2026.
+- Global Training and Validation Dataset for Ecosystem Functional Groups (link). An open-access dataset of more than 90,000 human-labelled point data records representing occurrences of 110 Ecosystem Functional Groups. Suitable for training spatial models, evaluating efforts to cross-reference existing map classifications to the IUCN Global Ecosystem Typology, or independently validating spatial datasets that were developed to represent ecosystem functional groups. Publication expected in 2026. You can view our labeling progress on our [annotation tracker app](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer).
 - Global Ecosystems Atlas Data Catalogue (link). A data catalogue of existing spatial data products that are intended to represent ecosystems ('source datasets'). Searches focus on publicly available data repositories, datasets associated with the scientific literature, and through a program of coordinated outreach to national environment agencies and ecosystem map developers.
 - Global Ecosystems Atlas Synthesis Map (link). The Global Ecosystems Atlas synthesis map is a data product designed to support a range of environmental initiatives through the provision of a spatially and thematically consistent geospatial data product that represents the distribution of the world's ecosystems. The data product is a set of 119 Cloud-optimised Geotiffs that include three synthesis, which represent the ecosystem functional group, biomes and realms of the IUCN Global Ecosystem Typology, 110 binary layers that represent the 110 individual ecosystem functional groups of the Global Ecosystem Typology, a data mask, and a set of quality assurance data layers that indicate the data provenance, development year and other relevant aspects of data quality.
+- Ecosystem cross-referencing tables (link). These tables cross-reference existing ecosystem maps housed in the Atlas Data Catalogue to the IUCN Global Ecosystem Typology. The cross-reference tables are provided in a standard format that complies with the [IUCN cross-referencing guidelines](https://portals.iucn.org/library/sites/library/files/documents/2025-026-En.pdf). 
 
 #### Reports
 
@@ -81,20 +81,21 @@ Technical reports detailing methods, procedures, usage notes and guidelines rela
 
 Useful short-format documents that provide accessible information about the Global Ecosystems Atlas initiative.
 
-- Global Ecosystems Atlas website (https://globalecosystemsatlas.org/)  
+- [Global Ecosystems Atlas website](https://globalecosystemsatlas.org/)  
 - Global Ecosystems Atlas Roadmap: 2025 - 2032 (forthcoming)
 - Global Ecosystems Atlas Glossary and Frequently Asked Questions (link)
+- Members of the Global Ecosystems Atlas Scientific and Technical Committee (link)
 - List of Global Ecosystems Atlas contributors (forthcoming)
 
 #### Software
 
 The Global Ecosystem Atlas is supported by a range of technical partners that have developed software, datasets or computing systems used in developing the data products of the Global Ecosystems Atlas Initiative. 
 
-- AlphaEarth Foundations (https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL#description)
-- ArcGIS Pro (https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-- Earth System Studio (https://earth-system-studio.allen.ai/)
-- Remap (https://remap-app.org)
-- R (https://www.r-project.org/)
+- [AlphaEarth Foundations](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL#description)
+- [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
+- [Earth System Studio](https://earth-system-studio.allen.ai/)
+- [Remap](https://remap-app.org)
+- [R](https://www.r-project.org/)
 
 #### Administration
 
@@ -112,4 +113,4 @@ When citing the Global Ecosystems Atlas Initiative, please cite it as follows:
 Global Ecosystems Atlas [Year] Group on Earth Observations. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
 
 ### Contacts
-If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au).
+If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au). This Github repository is managed and maintained by the [JCU Global Ecology Lab](www.globalecologylab.org).
