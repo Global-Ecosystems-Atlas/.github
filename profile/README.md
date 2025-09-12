@@ -56,11 +56,19 @@ Under some laws and voluntary frameworks, companies and financial institutions a
 #### Enhancing financial structuring and risk insurance
 An increasing number of countries and communities invest in risk insurance to protect against climate- and nature-related loss and damage. New ecosystems knowledge can lead to new opportunities in financial structuring based on the underlying value of ecosystem services.
 
-# Additional resources
+# Resources
 
 The Global Ecosystems Atlas has developed a range of resources to support the initiative and to support stakeholders in developing new maps of ecosystems. These include:
 
+#### Data products
+
+- Global Training and Validation Dataset for Ecosystem Functional Groups (link). An open-access dataset of more than 90,000 human-labelled point data records representing occurrences of 110 Ecosystem Functional Groups. Suitable for training spatial models, evaluating efforts to cross-reference existing map classifications to the IUCN Global Ecosystem Typology, or independently validating spatial datasets that were developed to represent ecosystem functional groups. Publication expected in 2026.
+- Global Ecosystems Atlas Data Catalogue (link). A data catalogue of existing spatial data products that are intended to represent ecosystems ('source datasets'). Searches focus on publicly available data repositories, datasets associated with the scientific literature, and through a program of coordinated outreach to national environment agencies and ecosystem map developers.
+- Global Ecosystems Atlas Synthesis Map (link). The Global Ecosystems Atlas synthesis map is a data product designed to support a range of environmental initiatives through the provision of a spatially and thematically consistent geospatial data product that represents the distribution of the world's ecosystems. The data product is a set of 119 Cloud-optimised Geotiffs that include three synthesis, which represent the ecosystem functional group, biomes and realms of the IUCN Global Ecosystem Typology, 110 binary layers that represent the 110 individual ecosystem functional groups of the Global Ecosystem Typology, a data mask, and a set of quality assurance data layers that indicate the data provenance, development year and other relevant aspects of data quality.
+
 #### Reports
+
+Technical reports detailing methods, procedures, usage notes and guidelines related to the development of data products and resources in the Global Ecosystem Atlas.
 
 - Global Ecosystems Atlas Data Catalogue: Standard Operating Procedures (forthcoming)
 - Global Ecosystems Atlas Synthesis Map: Technical Documentation (forthcoming)
@@ -71,13 +79,30 @@ The Global Ecosystems Atlas has developed a range of resources to support the in
 
 #### Information
 
-- Global Ecosystems Atlas website - (https://globalecosystemsatlas.org/)  
+Useful short-format documents that provide accessible information about the Global Ecosystems Atlas initiative.
+
+- Global Ecosystems Atlas website (https://globalecosystemsatlas.org/)  
 - Global Ecosystems Atlas Roadmap: 2025 - 2032 (forthcoming)
 - Global Ecosystems Atlas Glossary and Frequently Asked Questions (link)
-
-#### Contributors
-
 - List of Global Ecosystems Atlas contributors (forthcoming)
+
+#### Software
+
+The Global Ecosystem Atlas is supported by a range of technical partners that have developed software, datasets or computing systems used in developing the data products of the Global Ecosystems Atlas Initiative. 
+
+- AlphaEarth Foundations (https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL#description)
+- ArcGIS Pro (https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
+- Earth System Studio (https://earth-system-studio.allen.ai/)
+- Remap (https://remap-app.org)
+- R (https://www.r-project.org/)
+
+#### Administration
+
+Administrative trackers developed to communicate progress of the Global Ecosystem Atlas initaitive.
+
+- Release notes (link)
+- Issues list (link)
+- Annotations tracker (link)
 
 # How to cite the data
 When using the Global Ecosystems Atlas Synthesis Map in any publication, report or project, please cite it as follows:
