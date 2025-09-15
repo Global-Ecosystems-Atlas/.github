@@ -85,8 +85,6 @@ Useful short-format documents that provide accessible information about the Glob
 - [Global Ecosystems Atlas brochure](https://www.dropbox.com/scl/fi/vdfuwkcb2azmuqliub0xr/GLOBAL-ECOSYSTEMS-ATLAS_Brochure_10May2024.pdf?rlkey=2avt6bmzp8o2c21t74r75vz3o&dl=0)  
 - Global Ecosystems Atlas Roadmap: 2025 - 2032 (forthcoming)
 - Global Ecosystems Atlas Glossary and Frequently Asked Questions (link)
-- Members of the Global Ecosystems Atlas Scientific and Technical Committee (link)
-- List of Global Ecosystems Atlas contributors (forthcoming)
 
 #### Software
 
@@ -104,7 +102,9 @@ Administrative trackers developed to communicate progress of the Global Ecosyste
 
 - Release notes (link)
 - Issues list (link)
-- Annotations tracker (link)
+- Training data annotations progress ([link](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer))
+- Members of the Global Ecosystems Atlas Scientific and Technical Committee (link)
+- List of Global Ecosystems Atlas contributors (forthcoming)
 
 # How to cite the data
 When using the Global Ecosystems Atlas Synthesis Map in any publication, report or project, please cite it as follows:
