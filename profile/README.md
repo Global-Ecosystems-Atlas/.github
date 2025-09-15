@@ -101,8 +101,8 @@ The Global Ecosystem Atlas is supported by a range of technical partners that ha
 Administrative trackers developed to communicate progress of the Global Ecosystem Atlas initaitive.
 
 - Release notes (link)
-- Issues list (link)
-- Training data annotations progress ([link](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer))
+- [Issues list](https://github.com/Global-Ecosystems-Atlas/feedback)
+- [Training data annotations progress](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer)
 - Members of the Global Ecosystems Atlas Scientific and Technical Committee (link)
 - List of Global Ecosystems Atlas contributors (forthcoming)
 
