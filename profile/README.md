@@ -68,7 +68,7 @@ The Global Ecosystems Atlas has developed a range of resources to support the in
 
 #### Reports
 
-Technical reports detailing methods, procedures, usage notes and guidelines related to the development of data products and resources in the Global Ecosystem Atlas.
+Technical reports detailing methods, procedures, usage notes and guidelines related to the development of data products and resources in the Global Ecosystems Atlas.
 
 - Global Ecosystems Atlas Data Catalogue: Standard Operating Procedures (forthcoming)
 - Global Ecosystems Atlas Synthesis Map: Technical Documentation (forthcoming)
@@ -88,7 +88,7 @@ Useful short-format documents that provide accessible information about the Glob
 
 #### Software
 
-The Global Ecosystem Atlas is supported by a range of technical partners that have developed software, datasets or computing systems used in developing the data products of the Global Ecosystems Atlas Initiative. 
+The Global Ecosystems Atlas is supported by a range of technical partners that have developed software, datasets or computing systems used in developing the data products of the Global Ecosystems Atlas Initiative. 
 
 - [AlphaEarth Foundations](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL#description)
 - [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
@@ -98,7 +98,7 @@ The Global Ecosystem Atlas is supported by a range of technical partners that ha
 
 #### Administration
 
-Administrative trackers developed to communicate progress of the Global Ecosystem Atlas initaitive.
+Administrative trackers developed to communicate progress of the Global Ecosystems Atlas initaitive.
 
 - Release notes (link)
 - [Issues list](https://github.com/Global-Ecosystems-Atlas/feedback)
