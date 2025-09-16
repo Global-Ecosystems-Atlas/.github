@@ -106,6 +106,18 @@ Administrative trackers developed to communicate progress of the Global Ecosyste
 - Members of the Global Ecosystems Atlas Scientific and Technical Committee (link)
 - List of Global Ecosystems Atlas contributors (forthcoming)
 
+
+# License
+The Global Ecosystems Atlas and all content within is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
 # How to cite the data
 When using the Global Ecosystems Atlas Synthesis Map in any publication, report or project, please cite it as follows:
 Group on Earth Observations [Year] Global Ecosystems Atlas Synthesis Map version [Version Number]. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
@@ -114,4 +126,4 @@ When citing the Global Ecosystems Atlas Initiative, please cite it as follows:
 Global Ecosystems Atlas [Year] Group on Earth Observations. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
 
 ### Contacts
-If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au). This Github repository is managed and maintained by the [JCU Global Ecology Lab](www.globalecologylab.org).
+If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au). This repository is managed and maintained by the [JCU Global Ecology Lab](www.globalecologylab.org).
