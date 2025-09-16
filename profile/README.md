@@ -96,8 +96,6 @@ The Global Ecosystems Atlas is supported by a range of technical partners that h
 - [AlphaEarth Foundations](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL#description)
 - [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 - [Earth System Studio](https://earth-system-studio.allen.ai/)
-- [Remap](https://remap-app.org)
-- [R](https://www.r-project.org/)
 
 #### Administration
 
