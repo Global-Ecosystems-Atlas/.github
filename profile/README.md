@@ -11,18 +11,24 @@ The Atlas combines existing high-quality ecosystem maps with new ecosystem maps 
 ### Explore the Atlas [here!](https://globalecosystemsatlas.org/)    
 
 
-# About the Global Ecosystems Atlas GitHub organisation
+# Repositories
 
 On these pages you will find the repositories that manage all major units of work to support Atlas production, including: data cataloguing, dataset cross-referencing, map synthesis and app production:
 
-### 1. [Data catalogue](https://github.com/Global-Ecosystems-Atlas/data-catalogue)
+### [Data catalogue](https://github.com/Global-Ecosystems-Atlas/data-catalogue)
 This repository contains code and other information used to manage the cataloguing pipeline. In here you'll find lists of all datasets assessed for inclusion in the Atlas, along with detailed information and metadata. 
 
-### 2. [Cross-reference tables](https://github.com/Global-Ecosystems-Atlas/cross-reference-tables)
-This repository contains cross-referencing tables which explain how source dataset map classes are assigned to Ecosystem Functional Groups within IUCN's Global Ecosystem Typology.
+### [Cross-referencing](https://github.com/Global-Ecosystems-Atlas/cross-referencing)
+This repository contains all the cross-referencing material and code required to assign dataset map classes to Ecosystem Functional Groups within IUCN's Global Ecosystem Typology.
 
-### 3. [Data processing and synthesis map production](https://github.com/global-ecosystems-atlas/synthesis)
+### [Data processing and synthesis map production](https://github.com/global-ecosystems-atlas/synthesis)
 This repository contains code and other information used to process all input data sources and synthesise into the final 119 layers of the Global Ecosystems Atlas.
+
+### [Metadata](https://github.com/Global-Ecosystems-Atlas/metadata)
+This repository houses a range of metadata relevant to compiling and presenting the Global Ecosystems Atlas.
+
+### *Coming soon!* [Google Earth Engine Pipeline]()
+This repository will host all the [Earth Engine](https://code.earthengine.google.com/) scripts, snippets and dictionaries used in Atlas production.
 
 # Frequently Asked Questions
 
@@ -127,4 +133,5 @@ When citing the Global Ecosystems Atlas Initiative, please cite it as follows:
 Global Ecosystems Atlas [Year] Group on Earth Observations. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
 
 ### Contacts
-If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au). This repository is managed and maintained by the [JCU Global Ecology Lab](www.globalecologylab.org).
+If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au). 
+This repository is managed and maintained by the [JCU Global Ecology Lab](www.globalecologylab.org).
