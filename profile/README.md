@@ -101,7 +101,9 @@ The Global Ecosystems Atlas is supported by a range of technical partners that h
 
 - [AlphaEarth Foundations](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL#description)
 - [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-- [Earth System Studio](https://earth-system-studio.allen.ai/)
+- [Landsape Classifier](https://earthengine-ai.projects.earthengine.app/view/satellite-embedding-classifier-geo#state=V3.%7B*layers*~()!*geoms*~%7B%7D%7D;z=2;lat=40;lon=8;)
+- [OlmoEarth](https://olmoearth.allenai.org/)
+- [Remap: Remote Ecosystem Monitoring and Assesssment Pipeline](https://www.remap-app.org/)
 
 #### Administration
 
