@@ -91,7 +91,8 @@ Technical reports detailing methods, procedures, usage notes and guidelines rela
 Useful short-format documents that provide accessible information about the Global Ecosystems Atlas initiative.
 
 - [Global Ecosystems Atlas website](https://globalecosystemsatlas.org/)
-- [Global Ecosystems Atlas brochure](https://www.dropbox.com/scl/fi/vdfuwkcb2azmuqliub0xr/GLOBAL-ECOSYSTEMS-ATLAS_Brochure_10May2024.pdf?rlkey=2avt6bmzp8o2c21t74r75vz3o&dl=0)  
+- [Global Ecosystems Atlas brochure](https://www.dropbox.com/scl/fi/vdfuwkcb2azmuqliub0xr/GLOBAL-ECOSYSTEMS-ATLAS_Brochure_10May2024.pdf?rlkey=2avt6bmzp8o2c21t74r75vz3o&dl=0)
+- [Ecosystems in Focus: A guide to National Ecosysetm Mapping (brochure)](https://drive.google.com/file/d/1VAZq-zLuGFFlp9M_LoU1RrG1a_NavxcW/view?usp=drive_link)
 - Global Ecosystems Atlas Roadmap: 2025 - 2031 (forthcoming)
 - Global Ecosystems Atlas Glossary and Frequently Asked Questions (link)
 
