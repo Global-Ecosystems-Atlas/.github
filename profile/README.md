@@ -79,7 +79,7 @@ The Global Ecosystems Atlas has developed a range of resources to support the in
 
 Technical reports detailing methods, procedures, usage notes and guidelines related to the development of data products and resources in the Global Ecosystems Atlas.
 
-- Global Ecosystems Atlas Data Catalogue: Standard Operating Procedures (forthcoming)
+- Global Ecosystems Atlas Data Catalogue, Evaluation & Synthesis: Standard Operating Procedures (forthcoming)
 - Global Ecosystems Atlas Synthesis Map: Technical Documentation (forthcoming)
 - Global Ecosystems Atlas Training and Validation Dataset: Design and Specification (link)
 - Global Ecosystems Atlas Training and Validation Dataset: Standard Operating Procedures (link)
