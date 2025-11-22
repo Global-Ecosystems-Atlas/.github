@@ -77,8 +77,9 @@ The Global Ecosystems Atlas has developed a range of resources to support the in
 
 #### Reports
 
-Technical reports detailing methods, procedures, usage notes and guidelines related to the development of data products and resources in the Global Ecosystems Atlas.
+Technical reports and guidelines, detailing the methods, procedures, usage notes and guidelines related to the development of data products and resources for the Global Ecosystems Atlas.
 
+- [Guidelines for developing national ecosystem maps](https://earthobservations.org/storage/documents/Atlas/20251006_Guidelines%20for%20national%20ecosystem%20maps_For%20Comment.pdf)
 - Global Ecosystems Atlas Data Catalogue, Evaluation & Synthesis: Standard Operating Procedures (forthcoming)
 - Global Ecosystems Atlas Synthesis Map: Technical Documentation (forthcoming)
 - Global Ecosystems Atlas Training and Validation Dataset: Design and Specification (link)
@@ -92,8 +93,6 @@ Useful short-format documents that provide accessible information about the Glob
 
 - [Global Ecosystems Atlas website](https://globalecosystemsatlas.org/)
 - [Global Ecosystems Atlas brochure](https://www.dropbox.com/scl/fi/vdfuwkcb2azmuqliub0xr/GLOBAL-ECOSYSTEMS-ATLAS_Brochure_10May2024.pdf?rlkey=2avt6bmzp8o2c21t74r75vz3o&dl=0)
-- [Guidelines for developing national ecosystem maps](https://earthobservations.org/storage/documents/Atlas/20251006_Guidelines%20for%20national%20ecosystem%20maps_For%20Comment.pdf)
-- [Ecosystems in Focus: A guide to National Ecosystem Mapping (brochure)](https://drive.google.com/file/d/1VAZq-zLuGFFlp9M_LoU1RrG1a_NavxcW/view?usp=drive_link)
 - Global Ecosystems Atlas Roadmap: 2025 - 2031 (forthcoming)
 - Global Ecosystems Atlas Glossary and Frequently Asked Questions (link)
 
@@ -103,7 +102,7 @@ The Global Ecosystems Atlas is supported by a range of technical partners that h
 
 - [AlphaEarth Foundations](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL#description)
 - [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-- [Landsape Classifier](https://earthengine-ai.projects.earthengine.app/view/satellite-embedding-classifier-geo#state=V3.%7B*layers*~()!*geoms*~%7B%7D%7D;z=2;lat=40;lon=8;)
+- [Google Landscape Classifier](https://earthengine-ai.projects.earthengine.app/view/satellite-embedding-classifier-geo#state=V3.%7B*layers*~()!*geoms*~%7B%7D%7D;z=2;lat=40;lon=8;)
 - [OlmoEarth](https://olmoearth.allenai.org/)
 - [Remap: Remote Ecosystem Monitoring and Assesssment Pipeline](https://www.remap-app.org/)
 
