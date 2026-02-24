@@ -80,12 +80,11 @@ The Global Ecosystems Atlas has developed a range of resources to support the in
 Technical reports and guidelines, detailing the methods, procedures, usage notes and guidelines related to the development of data products and resources for the Global Ecosystems Atlas.
 
 - [Guidelines for developing national ecosystem maps](https://earthobservations.org/storage/documents/Atlas/20251006_Guidelines%20for%20national%20ecosystem%20maps_For%20Comment.pdf)
-- Global Ecosystems Atlas Data Catalogue, Evaluation & Synthesis: Standard Operating Procedures (forthcoming)
 - Global Ecosystems Atlas Synthesis Map: Technical Documentation (forthcoming)
 - Global Ecosystems Atlas Training and Validation Dataset: Design and Specification (link)
 - Global Ecosystems Atlas Training and Validation Dataset: Standard Operating Procedures (link)
 - Global Ecosystems Atlas Field Program: Standard Operating Procedures (link)
-- Global Ecosystems Atlas Guidelines for Developing National Ecosystem Maps (under review)
+- Global Ecosystems Atlas Guidelines for Developing National Ecosystem Maps (link)
 
 #### Information
 
@@ -93,7 +92,7 @@ Useful short-format documents that provide accessible information about the Glob
 
 - [Global Ecosystems Atlas website](https://globalecosystemsatlas.org/)
 - [Global Ecosystems Atlas brochure](https://www.dropbox.com/scl/fi/vdfuwkcb2azmuqliub0xr/GLOBAL-ECOSYSTEMS-ATLAS_Brochure_10May2024.pdf?rlkey=2avt6bmzp8o2c21t74r75vz3o&dl=0)
-- Global Ecosystems Atlas Roadmap: 2025 - 2031 (forthcoming)
+- Global Ecosystems Atlas Roadmap: 2025 - 2031 (link)
 - Global Ecosystems Atlas Glossary and Frequently Asked Questions (link)
 
 #### Software
