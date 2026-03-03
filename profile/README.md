@@ -61,18 +61,19 @@ Under some laws and voluntary frameworks, companies and financial institutions a
 #### Enhancing financial structuring and risk insurance
 An increasing number of countries and communities invest in risk insurance to protect against climate- and nature-related loss and damage. New ecosystems knowledge can lead to new opportunities in financial structuring based on the underlying value of ecosystem services.
 
-# Resources
+#### Global Ecosystems Atlas Data Products
+The Global Ecosystems Atlas initiative has developed several data products that relate to the distribution of the world's ecosystems. These are:
 
-The Global Ecosystems Atlas has developed a range of resources to support the initiative and to support stakeholders in developing new maps of ecosystems. These include:
-
-#### Data products
+- [Global Ecosystems Atlas Synthesis Map](https://globalecosystemsatlas.org/atlas). The Global Ecosystems Atlas synthesis map is a data product designed to support a range of environmental initiatives through the provision of a spatially and thematically consistent geospatial data product that represents the distribution of the world's ecosystems. The data product is a set of 4 Cloud-optimised Geotiffs (see [sample data](https://github.com/Global-Ecosystems-Atlas/gea-sample-data/tree/main)) designed to support the needs of global ecosystem monitoring initatives:
+  - `gea_synthesis.tiff` A 3-band multi-class cloud optimised geotiff that depicts the distributions of ecosystem functional groups, biomes and realms.
+  -  `gea_standalone.tiff` A multiband cloud optimised geotiff that depicts the distributions of ecosystems that cannot be served in a multiclass raster due to over- or under-laying other ecosystem types, such as pelagic ecosystems or sea ice.
+  -  `gea_data_mask.tiff` A 3-band cloud optimised geotiff with bands intended to support analyses of the gea_synthesis and gea_standalone data products.
+  -  `gea_sources.tiff` A 3-band cloud optimised geotiff with bands that depict aspects of the source data, such as source data id, the year the data were produced and the native cell size of source data.
 
 - [Global Training and Validation Dataset for Ecosystem Functional Groups](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer). An open-access dataset of more than 90,000 human-labelled point data records representing occurrences of 110 Ecosystem Functional Groups. Suitable for training spatial models, evaluating efforts to cross-reference existing map classifications to the IUCN Global Ecosystem Typology, or independently validating spatial datasets that were developed to represent ecosystem functional groups. Publication expected in 2026. You can view our labeling progress on our [annotation tracker app](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer).
   
 - [Global Ecosystems Atlas Data Catalogue](https://globalecosystemsatlas.org/data/sources-catalogue#tabs). A data catalogue of existing spatial data products that have been developed to represent ecosystems. We developed the Global Ecosystems Atlas data catalogue through extensive active searches of  publicly available data repositories, datasets associated with the scientific literature, and through a program of coordinated outreach to national environment agencies and ecosystem map developers.
-  
-- [Global Ecosystems Atlas Synthesis Map](https://globalecosystemsatlas.org/atlas). The Global Ecosystems Atlas synthesis map is a data product designed to support a range of environmental initiatives through the provision of a spatially and thematically consistent geospatial data product that represents the distribution of the world's ecosystems. The data product is a set of 119 Cloud-optimised Geotiffs that include three synthesis, which represent the ecosystem functional group, biomes and realms of the IUCN Global Ecosystem Typology, 110 binary layers that represent the 110 individual ecosystem functional groups of the Global Ecosystem Typology, a data mask, and a set of quality assurance data layers that indicate the data provenance, development year and other relevant aspects of data quality.
-  
+ 
 - [Ecosystem cross-reference tables](https://github.com/Global-Ecosystems-Atlas/cross-reference-tables). These tables cross-reference existing ecosystem maps housed in the Atlas Data Catalogue to the IUCN Global Ecosystem Typology. The cross-reference tables are provided in a standard format that complies with the [IUCN cross-referencing guidelines](https://portals.iucn.org/library/sites/library/files/documents/2025-026-En.pdf). 
 
 #### Reports
