@@ -15,6 +15,9 @@ The Atlas combines existing high-quality ecosystem maps with new ecosystem maps 
 
 On these pages you will find the repositories that manage all major units of work to support Atlas production, including: data cataloguing, dataset cross-referencing, map synthesis and app production:
 
+### [Metadata](https://github.com/Global-Ecosystems-Atlas/metadata)
+This repository houses a range of metadata relevant to compiling and presenting the Global Ecosystems Atlas.
+
 ### [Data catalogue](https://github.com/Global-Ecosystems-Atlas/data-catalogue)
 This repository contains code and other information used to manage the cataloguing pipeline. In here you'll find lists of all datasets assessed for inclusion in the Atlas, along with detailed information and metadata. 
 
@@ -23,9 +26,6 @@ This repository contains all the cross-referencing material and code required to
 
 ### [Data processing and synthesis map production](https://github.com/global-ecosystems-atlas/synthesis)
 This repository contains code and other information used to process all input data sources and synthesise into the final 119 layers of the Global Ecosystems Atlas.
-
-### [Metadata](https://github.com/Global-Ecosystems-Atlas/metadata)
-This repository houses a range of metadata relevant to compiling and presenting the Global Ecosystems Atlas.
 
 ### *Coming soon!* [Google Earth Engine Pipeline]()
 This repository will host all the [Earth Engine](https://code.earthengine.google.com/) scripts, snippets and dictionaries used in Atlas production.
@@ -110,7 +110,7 @@ The Global Ecosystems Atlas is supported by a range of technical partners that h
 
 Administrative trackers developed to communicate progress of the Global Ecosystems Atlas initaitive.
 
-- Release notes (link)
+- [Change Log](https://github.com/Global-Ecosystems-Atlas/metadata/blob/main/change-log.md)
 - [Issues list](https://github.com/Global-Ecosystems-Atlas/feedback)
 - [Training data annotations progress](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer)
 - Members of the Global Ecosystems Atlas Scientific and Technical Committee (link)
