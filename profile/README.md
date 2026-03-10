@@ -136,5 +136,5 @@ When citing the Global Ecosystems Atlas Initiative, please cite it as follows:
 Global Ecosystems Atlas [Year] Group on Earth Observations. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
 
 ### Contacts
-If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au). 
+If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](mailto:nicholas.murray@jcu.edu.au) or [Ben Cresswell](mailto:benjamin.cresswell@jcu.edu.au). 
 This repository is managed and maintained by the [JCU Global Ecology Lab](www.globalecologylab.org).
