@@ -130,10 +130,12 @@ The Global Ecosystems Atlas and all content within is licensed under a
 
 # How to cite the data
 When using the Global Ecosystems Atlas Synthesis Map in any publication, report or project, please cite it as follows:
-Group on Earth Observations [Year] Global Ecosystems Atlas Synthesis Map version [Version Number]. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
+
+* Group on Earth Observations [Year] Global Ecosystems Atlas Synthesis Map version [Version Number]. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
 
 When citing the Global Ecosystems Atlas Initiative, please cite it as follows:
-Global Ecosystems Atlas [Year] Group on Earth Observations. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
+
+* Global Ecosystems Atlas [Year] Group on Earth Observations. Available from: https://globalecosystemsatlas.org/. Accessed on [Date].
 
 ### Contacts
 If you have questions or queries about the Atlas GitHub organisation please contact [Nick Murray](mailto:nicholas.murray@jcu.edu.au) or [Ben Cresswell](mailto:benjamin.cresswell@jcu.edu.au). 
